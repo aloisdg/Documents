@@ -15,5 +15,9 @@ Nous sommes dans une période de l'histoire de l'humanité que je trouve fascina
 - anthropomorphie
 
 
+http://www.rslnmag.fr/post/2014/02/21/objets-connectes-avez-vs-donc-une-ame.aspx
+http://www.microsoft.com/france/mstechdays/programmes/2014/fiche-session.aspx?ID=85a0d790-0886-489d-96ef-00755411360b
+
+
 
 
