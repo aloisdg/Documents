@@ -8,6 +8,11 @@ Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pou
 
 Nous sommes dans une période de l'histoire de l'humanité que je trouve fascinante. Nous pouvons voir un voisin discuter avec un boîtier de métal sans que cela ne soit choquant. Nul ne vous arretera pour magie noire si vous avez un bracelet donnant l'heure tout en s'illuminant d'une luminosité liée à l'heure de la journée.
 
+/* body */ 
+
+
+Le monde évolue. La technologie avance. Il n'est plus temps où nous pouvons nous questionner sur le future. Nous ne pouvons plus dire "est-ce que ça arrivera ?", mais seulement nous interroger sur "quand" cela arrivera. Le futur est construit de nos projets actuels. Le présent n'est-il pas le passé du futur ? Nous, à travers nos entreprises, à travers nos passions et notre imagination, nous le construisons. Batissons le monde dans lequel nous souhaitons vivre. Le progrès est amélioration, sinon il n'est. Il est le vecteur qui transforme la notion de corvée en souvenir. Nous le trouvons dans tout nos objets du quotidien. Les objets connectés sont l'un de ses étapes. Les objets connectés ont-ils une âme ? Aujourd'hui, non, mais si un jour la notion d'âme est une utile à notre futur, alors oui un jour, ils en auront une, bien que j'ignore encore ce que c'est.
+
 
 
 - loi de moore
