@@ -1,6 +1,6 @@
 ### Objets connectés, avez-vous une ame ?
 
-Objets connectés, avez-vous une âme ? A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Je vais faire le choix de prendre ce titre pour une simple référence à Alphonse de Lamartine et poursuivre avec ceci : "Objets connectés, qui êtes-vous et que voulez-vous ?".
+A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Je vais faire le choix de prendre ce titre pour une simple référence à Alphonse de Lamartine et poursuivre avec ceci : "Objets connectés, qui êtes-vous et que voulez-vous ?".
 
 Nous utilisons des outils depuis l'aube des temps. Selon Aristote, cela fait même de nous des êtres intelligents. Au fil des époques, nous avons perfectionné nos instruments. Sans jamais nous arrêter, nous sommes passés de l'âge de pierre à notre ère. Sans jamais nous arrêter, nous sommes passés du chasseur/cueilleur au développeur. Nous avons nommé ça "progrès".
 
