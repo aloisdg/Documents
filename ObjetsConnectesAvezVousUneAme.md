@@ -10,7 +10,7 @@ Au début des années 2000, une nouvelle révolution a commencé. Internet s'est
 
 Nous imaginons tous ce présent connecté. Nous vivons dedans. Selon Gartner ou IDC, dans 5 ans, il y aura environ 30 milliards d'objets connectés dans le monde. Ce chiffre monte à 80 milliards selon l'estimation de Idate.
 
-![](/http://i.imgur.com/FNluqr0.png)
+![](http://i.imgur.com/FNluqr0.png)
 
 L’ère de « l'internet of everything », nous en posons les bases. Nous en sommes les premiers acteurs. Plus haut dans cet article, je me questionnais  sur la nature et sur le but des objets connectés. Je pense que je peux à présent donner une réponse. Objets connectés, vous êtes la quintessence de l'evolution technologique de l'humanité et vous voulez répondre aux besoins affichés par vos constructeurs, répondre aux besoins des humains. Objets connectés, je vous offre mon âme sans concession. Je veux vous aider dans votre mission. Je veux vous aider à aider mon prochain.
 
