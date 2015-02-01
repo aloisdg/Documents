@@ -26,7 +26,15 @@ http://www.rslnmag.fr/post/2014/02/21/objets-connectes-avez-vs-donc-une-ame.aspx
 http://www.microsoft.com/france/mstechdays/programmes/2014/fiche-session.aspx?ID=85a0d790-0886-489d-96ef-00755411360b
 
 
-http://www.reddit.com/r/Futurology/search?q=internet+of+things&restrict_sr=on&sort=relevance&t=all#page=2
+http://www.reddit.com/r/Futurology/search?q=internet+of+things&restrict_sr=on&sort=relevance&t=all
+
+http://www.generation-mobilite.com/articles.php
+
+data gueule https://www.youtube.com/watch?v=5otaBKsz7k4
+
+https://www.youtube.com/watch?v=9DNzF5sBSY4
+
+http://evene.lefigaro.fr/citation/objets-inanimes-ame-attache-ame-force-aimer-15408.php
 
 
 
