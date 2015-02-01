@@ -1,14 +1,10 @@
 ### Objets connectés, avez-vous une ame ?
 
- - "Julie un café, voulez vous."
- - "Oui monsieur"
- - "Bien"
+Objets connectés, avez-vous une âme ? A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Je vais faire le choix de prendre ce titre pour une simple référence à Alphonse de Lamartine et poursuivre avec ceci : "Objets connectés, qui êtes-vous et que voulez-vous ?".
 
-Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Si vous avez lu mon titre, vous pouvez questionner sur la nature de Julie. Est-ce un objet connecté ? Discutons en.
+Nous utilisons des outils depuis l'aube des temps. Selon Aristote, cela fait même de nous des êtres intelligents. Au fil des époques, nous avons perfectionné nos instruments. Sans jamais nous arrêter, nous sommes passés de l'âge de pierre à notre ère. Sans jamais nous arrêter, nous sommes passés du chasseur/cueilleur au développeur. Nous avons nommé ça "progrès".
 
-Objets connectés, avez-vous une ame ? A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Aujourd'hui, lecteur, je vous propose d'aller un peu plus loin. Objets connectés, pouvez-vous avoir une âme ?
-
-Nous sommes dans une période de l'histoire de l'humanité que je trouve fascinante. Nous pouvons voir un voisin discuter avec un boîtier de métal sans que cela ne soit choquant. Nul ne vous arretera pour magie noire si vous avez un bracelet donnant l'heure tout en s'illuminant d'une luminosité liée à l'heure de la journée. Ce monde magique 
+Nous sommes dans une période de l'histoire de l'humanité que je trouve fascinante. Nous pouvons voir un voisin discuter avec un boîtier de métal sans que cela ne soit choquant. Nul ne vous arretera pour magie noire si vous avez un bracelet donnant l'heure tout en s'illuminant d'une luminosité liée à l'heure de la journée. Ce monde magique est le notre et je trouve ça fantastique. Qu'est-ce qui nous a poussé à cette évolution ? La réponse est simple. Elle tient en un mot : "émancipation". L'émancipation est une transition d'un état limité vers un nouveau qui l'est moins. A travers notre créativité nous avons forgé les outils pour nous libérer. Nous avons inventé le chauffage pour nous libérer du froid. Nous avons inventé l'agriculture pour nous libérer de la faim. Nous avons inventé la democratie pour nous libérer de la tyrannie. Les exemples sont nombreux et je suis certain que vous avez les votres.
 
 /* body */ 
 
