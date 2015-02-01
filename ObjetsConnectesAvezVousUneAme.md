@@ -8,8 +8,21 @@ Nous sommes dans une période de l'histoire de l'humanité que je trouve fascina
 
 Au début des années 2000, une nouvelle révolution commença. Internet se démocratisa et tout changea. L'humanité se connecta et échangea. Nous outils accentuèrent leur évolution. Ils se connectèrent. Comment améliorer une brosse à dent ? Il suffit de la connecté. Elle peut maintenant déterminer si elle est bien utilisé, suffisamment, efficacement. Comment améliorer un volet ? Il suffit de le connecté. Il peut à présent accèder à la luminosité et à la volonté de son utilisateur. Il peut améliorer son but. Devenir plus pertinent. Une nouvelle fois je sais que tu as, lecteur, des dizaines d'exemples. Si ce n'est pas le cas, ferme les yeux et imagine comment changer le monde ainsi.
 
-Nous imaginons tous ce présent connecté. Nous vivons dedans. Selon Gartner ou IDC, il y a environ 30 milliards d'objets connectés dans le monde. Ce chiffre monte à 80 milliards selon l'estimation de Idate. /* body */. L’ère de « l'internet of everything », nous en posons les bases. Nous sommes les premiers acteurs. Plus haut dans cet article, je me questionnais  sur la nature et sur le but des objets connectés. Je pense que je peux à présent donner une réponse. Objets connectés, vous êtes la quintessence de l'evolution technologique de l'humanité et vous voulez répondre aux besoins affichés par vos constructeurs, répondre aux besoins des humains. Objets connectés, je vous offre mon âme sans concession. Je veux vous aider dans votre mission. Je veux vous aider à aider mon prochain.
+Nous imaginons tous ce présent connecté. Nous vivons dedans. Selon Gartner ou IDC, dans 5 ans, il y aura environ 30 milliards d'objets connectés dans le monde. Ce chiffre monte à 80 milliards selon l'estimation de Idate.
 
+![](/http://i.imgur.com/FNluqr0.png)
+
+L’ère de « l'internet of everything », nous en posons les bases. Nous en sommes les premiers acteurs. Plus haut dans cet article, je me questionnais  sur la nature et sur le but des objets connectés. Je pense que je peux à présent donner une réponse. Objets connectés, vous êtes la quintessence de l'evolution technologique de l'humanité et vous voulez répondre aux besoins affichés par vos constructeurs, répondre aux besoins des humains. Objets connectés, je vous offre mon âme sans concession. Je veux vous aider dans votre mission. Je veux vous aider à aider mon prochain.
+
+ - "Julie, supprimez mon footing de demain voulez-vous. Je suis fatigué."
+ - "Monsieur, cela va faire la deuxième fois ce mois ci."
+ - "Je suis fatigué."
+ - "Courriel de votre assureur. Vous venez de perdre 10 points."
+
+Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Julie est un compagnon virtuel. Elle s'assure du bien être et de la vie quotidienne à travers la totalité des données récoltés par tous les objets connectés. Elle sait faire le meilleur choix.
+
+
+Nous sommes le lundi 3 février 2025.
 
 /* body */ 
 
