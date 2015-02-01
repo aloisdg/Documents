@@ -4,9 +4,11 @@
  - "Oui monsieur"
  - "Bien"
 
-Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Si vous avez lu mon titre, vous pouvez questionner sur la nature de Julie. Est-ce un objet connecté ? Discutons en. A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Si nous venons à nous poser cette question, c'est qu'il y a peut-être plus à répondre. Aujourd'hui, lecteur, je vous propose d'aller un peu plus loin.
+Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Si vous avez lu mon titre, vous pouvez questionner sur la nature de Julie. Est-ce un objet connecté ? Discutons en.
 
-Nous sommes dans une période de l'histoire de l'humanité que je trouve fascinante. Nous pouvons voir un voisin discuter avec un boîtier de métal sans que cela ne soit choquant. Nul ne vous arretera pour magie noire si vous avez un bracelet donnant l'heure tout en s'illuminant d'une luminosité liée à l'heure de la journée.
+Objets connectés, avez-vous une ame ? A l'interrogation du titre, nous pourrions répondre tout simplement "non". Cela serait efficace, mais peu intéressant. Aujourd'hui, lecteur, je vous propose d'aller un peu plus loin. Objets connectés, pouvez-vous avoir une âme ?
+
+Nous sommes dans une période de l'histoire de l'humanité que je trouve fascinante. Nous pouvons voir un voisin discuter avec un boîtier de métal sans que cela ne soit choquant. Nul ne vous arretera pour magie noire si vous avez un bracelet donnant l'heure tout en s'illuminant d'une luminosité liée à l'heure de la journée. Ce monde magique 
 
 /* body */ 
 
@@ -23,6 +25,8 @@ Le monde évolue. La technologie avance. Il n'est plus temps où nous pouvons no
 http://www.rslnmag.fr/post/2014/02/21/objets-connectes-avez-vs-donc-une-ame.aspx
 http://www.microsoft.com/france/mstechdays/programmes/2014/fiche-session.aspx?ID=85a0d790-0886-489d-96ef-00755411360b
 
+
+http://www.reddit.com/r/Futurology/search?q=internet+of+things&restrict_sr=on&sort=relevance&t=all#page=2
 
 
 
