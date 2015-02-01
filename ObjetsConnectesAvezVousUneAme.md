@@ -8,7 +8,9 @@ Nous sommes dans une période de l'histoire fascinante. Nous pouvons voir un voi
 
 Au début des années 2000, une nouvelle révolution a commencé. Internet s'est démocratisé. L'humanité s'est connecté. Nos outils ont accentué leur évolution. Ils se connectèrent. Comment améliorer une brosse à dent ? Il suffit de la connecter. Elle peut maintenant déterminer si elle est bien utilisée, suffisamment, efficacement. Comment améliorer un volet ? Il suffit de le connecter. Il peut à présent accèder à la luminosité et à la volonté de son utilisateur. Il peut améliorer son but. Devenir plus pertinent. Une nouvelle fois je sais que tu as, lecteur, des dizaines d'exemples. Si ce n'est pas le cas, ferme les yeux et imagine comment changer le monde ainsi.
 
-Nous imaginons tous ce présent connecté. Nous vivons dedans. Selon Gartner ou IDC, dans 5 ans, il y aura environ 30 milliards d'objets connectés dans le monde. Ce chiffre monte à 80 milliards selon l'estimation de Idate.
+Nous imaginons tous ce présent connecté. Nous vivons dedans. Aux Etats-Unis par exemple, 37 millions de bâtiments ont été équipés de capteurs qui permettent d'obtenir des informations en temps réel concernant les usages des individus. En France, nous ne sommes pas en retard. Un français sur deux possède déjà un objet connecté personnel.
+
+Selon Gartner ou IDC, dans 5 ans, il y aura environ 30 milliards d'objets connectés dans le monde. Ce chiffre monte à 80 milliards selon l'estimation de Idate. Ericsson et Cisco statuent à 50 milliards. 
 
 ![](http://i.imgur.com/FNluqr0.png)
 
@@ -21,30 +23,28 @@ L’ère de « l'internet of everything », nous en posons les bases. Nous en so
 
 Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Julie est un compagnon virtuel. Elle s'assure du bien être et de la vie quotidienne à travers la totalité des données récoltés par tous les objets connectés. Elle sait faire le meilleur choix. J'ai 32 ans et nous sommes le lundi 3 février 2025. Je n'ai pas envie d'aller courir à la salle de sport. Il y en a une juste en bas de l'immeuble. Selon Julie et mon assureur, la seconde est mieux pour moi. La seconde salle se nomme Matin Brun. Cela ne m'étonne guère. C'est normal non ? Cela me fait penser que je dois me dêpecher. Ma maison risque de s'inquiéter. Je crois que les entreprises, dont le but est de faire du profit ne sont pas les meilleurs constructeurs pour ces objets. Une ouverture totale, voilà ce qui ferait tomber les doutes. La CNIL est trop limitée, lente. Je me questionne. Qui surveille ma vie ? Qui surveille mes données ? Objets connectés, avez-vous vendu mon âme ?
 
-Le monde évolue. La technologie avance. Il n'est plus temps où nous pouvons nous questionner sur le futur. Nous ne pouvons plus dire "est-ce que ça arrivera ?", mais seulement nous interroger sur "quand" cela arrivera. Je suis de ceux qui osent croire que tout ce que l'imagination humaine est capable de concevoir peut se produire dans la réalité. Le futur est construit de nos projets actuels. A cette interrogation, j'ajoute ceci : "Comment cela arrivera ?". Nous ne pouvons plus nous permettre de faire l'impasse sur ces questions. Nous ne voulons pas subir cette révolution. Nous n'aspirons pas à être les esclaves des sociétés de demain. Batissons le monde dans lequel nous souhaitons vivre. Le progrès est amélioration, sinon il n'est. Il est le vecteur qui transforme la notion de corvée en souvenir. C'est à travers lui que nous fabriquons l'émanicaption de demain. Nous le trouvons dans tout nos objets du quotidien. Les objets connectés sont l'une de ces étapes. 
+Le monde évolue. La technologie avance. Il n'est plus temps où nous pouvons nous questionner sur le futur. Nous ne pouvons plus dire "est-ce que ça arrivera ?", mais seulement nous interroger sur "quand" cela arrivera. Je suis de ceux qui osent croire que tout ce que l'imagination humaine est capable de concevoir peut se produire dans la réalité. Le futur est construit de nos projets actuels. A cette interrogation, j'ajoute ceci : "Comment cela arrivera ?". Nous ne pouvons plus nous permettre de faire l'impasse sur ces questions. Nous ne voulons pas subir cette révolution. Nous n'aspirons pas à être les esclaves des sociétés de demain. Batissons le monde dans lequel nous souhaitons vivre. Le progrès est amélioration, sinon il n'est. Il est le vecteur qui transforme la notion de corvée en souvenir. C'est à travers lui que nous fabriquons l'émanicaption de demain. Nous le trouvons dans tout nos objets du quotidien. Les objets connectés sont l'une de ces étapes. Sommes-nous prêt pour ce boulversement ?
 
 Si nous devions prendre le titre au pied de la lettre. Voici ma réponse. Les objets connectés ont-ils une âme ? Aujourd'hui, non. Si un jour la notion d'âme est utile à notre futur, alors oui. Un jour, ils en auront une, bien que j'ignore encore ce que c'est.
 
-// Nous, à travers nos entreprises, à travers nos passions et notre imagination, nous le construisons. 
-
-- loi de moore
-- objet intelligent == objet connecté ?
-- anthropomorphie
-
 
 http://www.rslnmag.fr/post/2014/02/21/objets-connectes-avez-vs-donc-une-ame.aspx
+
 http://www.microsoft.com/france/mstechdays/programmes/2014/fiche-session.aspx?ID=85a0d790-0886-489d-96ef-00755411360b
 
+http://d3uifzcxlzuvqz.cloudfront.net/images/stories/content/infographic/IoT-Infographic/postscapes-harbor-iot-infographics.jpg
 
-http://www.reddit.com/r/Futurology/search?q=internet+of+things&restrict_sr=on&sort=relevance&t=all
+https://www.youtube.com/watch?v=5otaBKsz7k4
 
-http://www.generation-mobilite.com/articles.php
+http://www.intel.com/content/www/us/en/internet-of-things/infographics/guide-to-iot.html
 
-data gueule https://www.youtube.com/watch?v=5otaBKsz7k4
+https://www.youtube.com/watch?v=3xOK2aJ-0Js
 
-https://www.youtube.com/watch?v=9DNzF5sBSY4
+http://www.gartner.com/newsroom/id/2905717
 
-http://evene.lefigaro.fr/citation/objets-inanimes-ame-attache-ame-force-aimer-15408.php
+http://www.forbes.com/sites/gilpress/2014/08/22/internet-of-things-by-the-numbers-market-estimates-and-forecasts/
+
+http://share.cisco.com/assets/images/Internet_of_Things_Infographic.jpg
 
 
 
