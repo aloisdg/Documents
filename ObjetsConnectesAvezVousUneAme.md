@@ -25,6 +25,8 @@ Le monde évolue. La technologie avance. Il n'est plus temps où nous pouvons no
 
 
 
+// Nous, à travers nos entreprises, à travers nos passions et notre imagination, nous le construisons. 
+
 - loi de moore
 - objet intelligent == objet connecté ?
 - anthropomorphie
