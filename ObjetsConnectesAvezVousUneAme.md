@@ -17,12 +17,9 @@ L’ère de « l'internet of everything », nous en posons les bases. Nous en so
  - "Julie, supprimez mon footing de demain voulez-vous. Je suis fatigué."
  - "Monsieur, cela va faire la deuxième fois ce mois ci."
  - "Je suis fatigué."
- - "Courriel de votre assureur. Vous venez de perdre 10 points."
+ - "Courriel de votre assureur. Vous venez de perdre 10 points. La compagnie Brun vous souhaite bonsoir."
 
-Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Julie est un compagnon virtuel. Elle s'assure du bien être et de la vie quotidienne à travers la totalité des données récoltés par tous les objets connectés. Elle sait faire le meilleur choix.
-
-
-Nous sommes le lundi 3 février 2025.
+Cette discution, je viens de l'inventer. Elle n'existe que sur ces lignes et pourtant elle pourrait être réelle. Vous le savez tout comme moi. Julie est un compagnon virtuel. Elle s'assure du bien être et de la vie quotidienne à travers la totalité des données récoltés par tous les objets connectés. Elle sait faire le meilleur choix. J'ai 32 ans et mous sommes le lundi 3 février 2025. Je n'ai pas envie d'aller courir à la salle de sport. Il y en a une juste en bas de l'immeuble. Selon Julie et mon assureur, la seconde est mieux pour moi. La seconde salle se nomme Matin Brun. Je me fais un thé.  
 
 /* body */ 
 
