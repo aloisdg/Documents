@@ -2,8 +2,16 @@ From the start of human communication, we have to emphasis some part of our text
 
 ## What is Markdown ? (intro)
 
+/* to do */
+
 ## How the hell is this this good ? (les +)
+
+/* to do */
 
 ## Did it get some bads part ? (les -)
 
+/* to do */
+
 ## (Conclusion)
+
+/* to do */
