@@ -37,10 +37,10 @@ Author\*\* | Who authored the document? | Alois de Gouvello
 
 Title | Question | Example
 ----- | -------- | -------
-Page | Where should I put this paper in the whole document? | 13 / 42
-Date | When was the last publication of the document? | 12-05-2015
+Page | Where should I put this paper in the whole document? | 1/5
+Date | When was the last publication of the document? | 5/12/15
 Version | What is the last version of the document? | 2.1.0
-Name | What is the name of the document? | OneStepInHeaderAnFooter.md
+Name | What is the name of the document? | Document.md
 Licence | What is the licence of the document? | CC BY 3.0
 
 ## Example
