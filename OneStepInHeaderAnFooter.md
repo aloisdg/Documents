@@ -1,4 +1,4 @@
-# One step in header and footer
+# One Step in Header and Footer
 
 ## Introduction
 
@@ -42,6 +42,16 @@ Date | When was the last publication of the document? | 12-05-2015
 Version | What is the last version of the document? | 2.1.0
 Name | What is the name of the document? | OneStepInHeaderAnFooter.md
 Licence | What is the licence of the document? | CC BY 3.0
+
+## Example
+
+### Header
+
+![header example](http://i.imgur.com/brs0sh8.png)
+
+### Footer
+
+![footer example](http://i.imgur.com/TZ3GUIM.png)
 
 
 
