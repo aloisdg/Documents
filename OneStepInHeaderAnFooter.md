@@ -26,7 +26,7 @@ Title | Question | Example | Alignment
 Title | What document am I reading? | One step in header and footer | Top Left
 Chapter | Which chapter is this? | header and Footer content | Top Left
 Author | Who authored the document? | Alois de Gouvello | Top Right
-Licence | What is the licence of the document? | Creative Commons - CC BY 3.0 | Top Right
+Licence | What is the licence of the document? | CC BY 3.0 | Top Right
 
 ## What a footer should contain?
 
