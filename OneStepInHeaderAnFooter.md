@@ -25,7 +25,7 @@ Title | Question | Example | Alignment
 ----- | -------- | ------- | ---------
 Title | What document am I reading? | One step in header and footer | Top Left
 Chapter | Which chapter is this? | header and Footer content | Top Left
-Author | Who authored the document? | Alois de Gouvello | Top Right
+Author\* | Who authored the document? | Alois de Gouvello | Top Right
 Licence | What is the licence of the document? | CC BY 3.0 | Top Right
 
 ## What a footer should contain?
@@ -37,3 +37,5 @@ Date | When was the last publication of the document? | 12-05-2015 | Top Left
 Version | What is the last version of the document? | 2.1.0 | Top Left
 Name | What is the name of the document? | OneStepInHeaderAnFooter.md | Top Left
 
+
+\* Author could be the logo of your team.
