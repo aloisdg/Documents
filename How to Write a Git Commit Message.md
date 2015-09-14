@@ -1,18 +1,17 @@
-# How to Write a Git Commit Message
+# Comment écrire un message de commit
 
 
 [![](http://imgs.xkcd.com/comics/git_commit.png)](http://xkcd.com/1296/)
 
 * * *
 
-[Introduction](#intro) | [The Seven Rules](#seven-rules) | [Tips](#tips)
+[Introduction](#intro) | [Les Sept Règles](#seven-rules) | [Astuces](#tips)
 
 * * *
 
-## Introduction: Why good commit messages matter
+## Introduction: Pourquoi des bons messages de commit sont importants
 
-If you browse the log of any random git repository you will probably find its commit messages are more or less a mess. For example, take a look at [these gems](https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams) from my early days committing to Spring:
-
+Si vous parcourez les logs de n'importe quel dépôt git vous trouverez probablement que ces messages de commit sont plus ou moins chaotique. Par exemple, jetez un coup d'oeil à [ces pépites](https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams) de mes premiers jours de commit sur le projet Spring :
 
     $ git log --oneline -5 --author cbeams --before "Fri Mar 26 2009"
 
@@ -22,9 +21,8 @@ If you browse the log of any random git repository you will probably find its co
     22b25e0 Consolidated Util and MutableAnnotationUtils classes into existing AsmUtils
     7f96f57 polishing
 
-
-Yikes. Compare that with these [more recent](https://github.com/spring-projects/spring-framework/commits/5ba3db?author=philwebb) commits from the same repository:
-
+Aïe. Comparez ça avec des [commits plus récents](https://github.com/spring-projects/spring-framework/commits/5ba3db?author=philwebb)
+provenant du même dépôt:
 
     $ git log --oneline -5 --author pwebb --before "Sat Aug 30 2014"
 
@@ -34,14 +32,13 @@ Yikes. Compare that with these [more recent](https://github.com/spring-projects/
     887815f Update docbook dependency and generate epub
     ac8326d Polish mockito usage
 
+Lequel préférez-vous lire?
 
-Which would you rather read?
+Le premier varie fortement en taille et en forme; le dernier est concis et consistent. Le premier est ce qui arrive par défaut; le dernier n'arrive jamais par accident.
 
-The former varies wildly in length and form; the latter is concise and consistent. The former is what happens by default; the latter never happens by accident.
+Alors que les logs de nombreux dépôts ressemblent à ceux de le premier, il y a des exceptions. Le [kernel Linux](https://github.com/torvalds/linux/commits/master) et [git lui même](https://github.com/git/git/commits/master) en sont de bons exemples. Regardez sur [Spring Boot](https://github.com/spring-projects/spring-boot/commits/master),  ou n'importe quel dépôt gérez par [Tim Pope](https://github.com/tpope/vim-pathogen/commits/master).
 
-While many repositories' logs look like the former, there are exceptions. The [Linux kernel](https://github.com/torvalds/linux/commits/master) and [git itself](https://github.com/git/git/commits/master) are great examples. Look at [Spring Boot](https://github.com/spring-projects/spring-boot/commits/master), or any repository managed by [Tim Pope](https://github.com/tpope/vim-pathogen/commits/master).
-
-The contributors to these repositories know that a well-crafted git commit message is the best way to communicate _context_ about a change to fellow developers (and indeed to their future selves). A diff will tell you _what_ changed, but only the commit message can properly tell you _why_. Peter Hutterer [makes this point](http://who-t.blogspot.co.at/2009/12/on-commit-messages.html) well:
+Les contributeurs de ces dépôts savent qu'un message de commit bien formaté est la meilleure façon de communiquer le _contexte_  d'un changement aux autres développeurs (et en effet à leurs futurs eux mêmes). Un diff révèlera le _quoi_ qui a changé, mais seulement un message de commit peut, proprement, décrire le _pourquoi_. Peter Hutterer [établit bien ce point](http://who-t.blogspot.co.at/2009/12/on-commit-messages.html) :
 
 > Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to [reducing it](http://www.osnews.com/story/19266/WTFs_m) [as much] as possible. Commit messages can do exactly that and as a result, _a commit message shows whether a developer is a good collaborator_.
 
