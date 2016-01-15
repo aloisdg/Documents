@@ -1,8 +1,3 @@
----
-date: January 2015
-language: en
----
-
 # Project Title
 
 A synopsis of project work being carried out at
@@ -40,7 +35,7 @@ and Validation in Check Images is a process of .......... The extracted bank ide
 
 An introduction to the area of work, explaining all the important aspects. Atleast one page introduction to the domain should be given. This section can have three to four Paragraphs of text. Explanation about the existing system need for change can also be included in this section.
 
-Example: Bank cheque processing is a challenging task for the scientific com-munity in the field of document analysis and character recognition. The challenge is because of the nature of the cheques.  Bank cheques | ......................and identification of bank agency, the cheque number and ........................... size text style colour and so on. Usually the some of the information mentioned above are encoded as a number and are pre-printed using ............he most important user-entered information fields are the courtesy (digit) amount, the legal (worded) amount and the ............................... ...... Machine printed numeral recognition module. In a MICR cheque the numerals are printed using magnetic ink CMC-7 code. The major MICR fonts used around the world are E-13B and CMC-7. The code is printed in a well-defined zone. Therefore this task is mu...................er reference database the personal information about the customer. Courtesy amount recognition mod-ule. It is used for extracting numerals written by the user in the Courtesy amount field. The output of this module will be used by the amount validation module.
+Example: Bank cheque processing is a challenging task for the scientific com-munity in the field of document analysis and character recognition. The challenge is because of the nature of the cheques.  Bank cheques ......................and identification of bank agency, the cheque number and ........................... size text style colour and so on. Usually the some of the information mentioned above are encoded as a number and are pre-printed using ............he most important user-entered information fields are the courtesy (digit) amount, the legal (worded) amount and the ............................... ...... Machine printed numeral recognition module. In a MICR cheque the numerals are printed using magnetic ink CMC-7 code. The major MICR fonts used around the world are E-13B and CMC-7. The code is printed in a well-defined zone. Therefore this task is mu...................er reference database the personal information about the customer. Courtesy amount recognition mod-ule. It is used for extracting numerals written by the user in the Courtesy amount field. The output of this module will be used by the amount validation module.
 
 List the advanatages of the work...... This would reduce the manual work.... increase effieciency.........  Cost involved ............  implementation time for automation is minimal
 
