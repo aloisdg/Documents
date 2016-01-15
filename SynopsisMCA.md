@@ -1,46 +1,34 @@
 ---
-language: c++
-contributors:
-    - ["Steven Basart", "http://github.com/xksteven"]
-    - ["Matt Kline", "https://github.com/mrkline"]
-    - ["Geoff Liu", "http://geoffliu.me"]
-    - ["Connor Waters", "http://github.com/connorwaters"]
-lang: en
+date: January 2015
+language: en
 ---
 
 # Project Title
 
 A synopsis of project work being carried out at
 
-COMPANY NAME submitted to
+    COMPANY NAME
 
-Department of Computer Applications,
+submitted to
 
-Manipal Institute of Technology,
-
-Manipal University, Manipal
-
-
+    Department of Computer Applications,
+    Manipal Institute of Technology,
+    Manipal University, Manipal
 
 in partial fulfillment of the requirements for the award of degree of Master of Computer Applications
 
 Submitted by
 
-Your Name (Reg. No: XXXXXXXX)
+    Your Name (Reg. No: XXXXXXXX)
 
 Under the guidance of:
 
-Internal Guide Name
-Designation
-Department of Computer Applications
-M.I.T, Manipal 576 104 
-
-External Guide Name
-Designation
-Company Address Line1
-Place PIN
-
-January 2015
+|               | Internal      | External |
+| ------------- |:--------------|:---------|
+| Name          | | |
+| Designation   | | |
+| Adress Line 1 | Department of Computer Applications | |
+| Place PIN     | M.I.T, Manipal 576 104 | |
 
 ## Abstract
 
