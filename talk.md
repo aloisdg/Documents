@@ -1,8 +1,4 @@
-# Option 1
-
-Par alois.degouvello@epitech.eu
-le 14/05/2017
-version 1.0.1
+Par alois.degouvello@epitech.eu le 14/05/2017
 
 ## Pourquoi avez-vous choisi le sujet que vous avez présenté ? Un minimum d’argumentation est attendu.
 
@@ -16,11 +12,11 @@ Un standard puise sa pertinence dans son acceptation. Plus nous serons nombreux 
 
 ## Si vous deviez choisir un autre sujet, lequel serait-il ? Donnez le nom du talk qui pourrait découler.
 
-Si je devais choisir un autre sujet, je pense que je me tournerais vers le golf. Le Code golf est un exercice récréatif de programmation. Le but est d'implémenter un algorithme donné en utilisant le plus petit nombre de multiplet possible. Un titre qui pourrait en découler pourrait être "Dans votre langage, quel est le nombre minimum de multiplet pour afficher `Hello, World!` ?".
+Si je devais choisir un autre sujet, je pense que je me tournerais vers le golf. Le Code golf est un exercice récréatif de programmation. Le but est d'implémenter un algorithme donné en utilisant le plus petit nombre de multiplet possible. C'est une pratique intéressante et relativement méconnue des développeurs amateurs. Un titre qui pourrait en découler pourrait être "Quel est le nombre minimum de multiplet pour afficher l'alphabet sans l'utiliser directement ?".
 
 ## Comment auriez vous présenté ce nouveau talk ? Sur quoi vous seriez-vous concentré ? Qu’auriez-vous montré sur votre support visuel ?
 
-Ce nouveau talk aurait été présenté sur un ton ludique et pédagogique. Je n'aurais probablement amené aucun visuel et tout le talk ce serait déroulé dans la console JavaScript de Firefox. JavaScript étant le langage le plus couramment parlé de nos jours. J'expliquerais en deux ou trois phrases le concept et je passerais à la suite. Je présenterais un exemple simple et rapide permettant de dévoiler tant l'aspect ludique que pédagogique de cette pratique. Je finirais mon talk par une invitation sur le site [codegolf.se.com](https://codegolf.stackexchange.com/).
+Ce nouveau talk aurait été présenté sur un ton ludique et pédagogique. Je n'aurais probablement amené aucun visuel et tout le talk ce serait déroulé dans la console JavaScript de Firefox. JavaScript étant le langage le plus couramment parlé de nos jours. J'expliquerais en deux ou trois phrases le concept et je passerais à la suite. Je me concentrerais sur la partie interactive. Je présenterais un exemple simple et rapide permettant de dévoiler tant l'aspect ludique que pédagogique de cette pratique. J'inviterais mon auditoire à être acteur de mon talk en me proposant directement une amélioration pour réduire le nombre de multiplet. Toute question sera répondu sera répondu ultérieurement pour ne pas m'éparpiller. Je finirais mon talk par une invitation sur le site [codegolf.se.com](https://codegolf.stackexchange.com/) et par les éventuelles précisions ou questions soulevées.
 
 ---
 
